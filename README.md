@@ -1,0 +1,2 @@
+# linguagemc
+ponteiros
